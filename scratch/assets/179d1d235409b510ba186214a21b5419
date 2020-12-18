@@ -1,9 +1,0 @@
-{
-  "name": "otafromscratch",
-  "displayName": "otafromscratch",
-  "expo": {
-    "name": "otafromscratch",
-    "slug": "otafromscratch",
-    "sdkVersion": "40.0.0"
-  }
-}
