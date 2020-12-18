@@ -1,0 +1,13 @@
+{
+  "name": "otafromscratch",
+  "displayName": "otafromscratch",
+  "expo": {
+    "name": "otafromscratch",
+    "slug": "otafromscratch",
+    "version": "1.0.0",
+    "sdkVersion": "40.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
